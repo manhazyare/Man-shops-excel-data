@@ -4,11 +4,13 @@
 
 This project analyzes annual electronics sales data for **Man Shops**, a retail business operating multiple shops across Kenya. The goal is to understand sales performance, profitability, inventory levels, and regional trends to support better business decisions.
 
----
+---<img width="1123" height="352" alt="Screenshot 2026-01-19 080742" src="https://github.com/user-attachments/assets/4967ff93-06ed-4b68-b11e-b772b4186b2f" />
+
 
 ## Business Context
 
 Man Shops operates electronics stores in:
+<img width="1144" height="345" alt="Screenshot 2026-01-19 080715" src="https://github.com/user-attachments/assets/ab9e8d58-7e77-4c38-ac07-0205a8ca2187" />
 
 * Nairobi
 * Mombasa
